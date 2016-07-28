@@ -1,0 +1,5 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem9\bin\Debug\Problem9.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem9\bin\Debug\Problem9.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem9\bin\Debug\Problem9.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem9\obj\Debug\Problem9.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem9\obj\Debug\Problem9.pdb

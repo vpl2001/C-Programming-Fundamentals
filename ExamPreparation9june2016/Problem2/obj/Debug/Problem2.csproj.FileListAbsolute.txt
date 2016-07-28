@@ -1,0 +1,5 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\ExamPreparation9june2016\Problem2\bin\Debug\Problem2.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\ExamPreparation9june2016\Problem2\bin\Debug\Problem2.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\ExamPreparation9june2016\Problem2\bin\Debug\Problem2.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\ExamPreparation9june2016\Problem2\obj\Debug\Problem2.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\ExamPreparation9june2016\Problem2\obj\Debug\Problem2.pdb

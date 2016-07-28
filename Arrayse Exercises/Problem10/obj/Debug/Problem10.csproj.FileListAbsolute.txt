@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\bin\Debug\Problem10.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\bin\Debug\Problem10.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\bin\Debug\Problem10.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\obj\Debug\Problem10.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\obj\Debug\Problem10.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\Problem10\obj\Debug\Problem10.pdb

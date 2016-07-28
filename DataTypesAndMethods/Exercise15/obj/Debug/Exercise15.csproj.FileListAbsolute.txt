@@ -1,0 +1,5 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercise15\bin\Debug\Exercise15.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercise15\bin\Debug\Exercise15.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercise15\bin\Debug\Exercise15.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercise15\obj\Debug\Exercise15.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercise15\obj\Debug\Exercise15.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\bin\Debug\JudgeTrain.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\bin\Debug\JudgeTrain.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\bin\Debug\JudgeTrain.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\obj\Debug\JudgeTrain.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\obj\Debug\JudgeTrain.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\JudgeTrain\obj\Debug\JudgeTrain.pdb

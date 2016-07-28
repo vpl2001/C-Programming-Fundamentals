@@ -1,0 +1,5 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem5\bin\Debug\Problem5.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem5\bin\Debug\Problem5.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem5\obj\Debug\Problem5.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem5\obj\Debug\Problem5.pdb

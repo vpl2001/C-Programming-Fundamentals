@@ -1,0 +1,5 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises13\bin\Debug\Exercises13.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises13\bin\Debug\Exercises13.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises13\bin\Debug\Exercises13.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises13\obj\Debug\Exercises13.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises13\obj\Debug\Exercises13.pdb

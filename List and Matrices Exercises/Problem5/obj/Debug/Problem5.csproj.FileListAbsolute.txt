@@ -1,0 +1,6 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\bin\Debug\Problem5.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\bin\Debug\Problem5.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\bin\Debug\Problem5.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\obj\Debug\Problem5.csprojResolveAssemblyReference.cache
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\obj\Debug\Problem5.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\List and Matrices Exercises\Problem5\obj\Debug\Problem5.pdb

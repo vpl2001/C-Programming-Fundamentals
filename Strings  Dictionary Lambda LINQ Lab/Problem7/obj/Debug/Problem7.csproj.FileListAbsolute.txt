@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\bin\Debug\Problem7.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\bin\Debug\Problem7.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\bin\Debug\Problem7.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\obj\Debug\Problem7.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\obj\Debug\Problem7.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Problem7\obj\Debug\Problem7.pdb

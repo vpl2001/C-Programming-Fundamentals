@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\bin\Debug\SomeDataTypes.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\bin\Debug\SomeDataTypes.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\bin\Debug\SomeDataTypes.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\obj\Debug\SomeDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\obj\Debug\SomeDataTypes.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Arrayse Exercises\SomeDataTypes\obj\Debug\SomeDataTypes.pdb

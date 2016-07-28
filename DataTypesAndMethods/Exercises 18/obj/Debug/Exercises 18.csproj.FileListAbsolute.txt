@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\bin\Debug\Exercises 18.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\bin\Debug\Exercises 18.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\bin\Debug\Exercises 18.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\obj\Debug\Exercises 18.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\obj\Debug\Exercises 18.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\Exercises 18\obj\Debug\Exercises 18.pdb

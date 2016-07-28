@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\bin\Debug\Проблем8.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\bin\Debug\Проблем8.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\bin\Debug\Проблем8.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\obj\Debug\Проблем8.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\obj\Debug\Проблем8.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Проблем8\obj\Debug\Проблем8.pdb

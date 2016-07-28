@@ -1,0 +1,6 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\bin\Debug\Opening.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\bin\Debug\Opening.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\bin\Debug\Opening.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\obj\Debug\Opening.csprojResolveAssemblyReference.cache
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\obj\Debug\Opening.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Opening\obj\Debug\Opening.pdb

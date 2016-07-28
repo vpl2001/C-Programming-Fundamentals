@@ -1,0 +1,6 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\bin\Debug\Problem1.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\bin\Debug\Problem1.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\bin\Debug\Problem1.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\obj\Debug\Problem1.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\StringsDictionaryLambdaExercises\Problem1\obj\Debug\Problem1.pdb

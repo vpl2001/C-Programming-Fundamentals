@@ -1,0 +1,6 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\bin\Debug\Dicctionaries.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\bin\Debug\Dicctionaries.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\bin\Debug\Dicctionaries.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\obj\Debug\Dicctionaries.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\obj\Debug\Dicctionaries.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\Strings  Dictionary Lambda LINQ Lab\Dicctionaries\obj\Debug\Dicctionaries.pdb

@@ -1,0 +1,6 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\bin\Debug\SomeMoreMiddlePractice.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\bin\Debug\SomeMoreMiddlePractice.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\bin\Debug\SomeMoreMiddlePractice.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\obj\Debug\SomeMoreMiddlePractice.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\obj\Debug\SomeMoreMiddlePractice.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods\SomeMoreMiddlePractice\obj\Debug\SomeMoreMiddlePractice.csprojResolveAssemblyReference.cache

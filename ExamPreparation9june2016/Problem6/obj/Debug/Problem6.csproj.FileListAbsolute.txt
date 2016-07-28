@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\bin\Debug\Problem6.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\bin\Debug\Problem6.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\bin\Debug\Problem6.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\obj\Debug\Problem6.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\obj\Debug\Problem6.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\ExamPreparation9june2016\Problem6\obj\Debug\Problem6.pdb

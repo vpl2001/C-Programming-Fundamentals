@@ -1,0 +1,6 @@
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\bin\Debug\Problem4.exe.config
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\bin\Debug\Problem4.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\bin\Debug\Problem4.pdb
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\obj\Debug\Problem4.exe
+C:\Users\Lozanovi\Documents\Visual Studio 2015\Projects\List and matrices Lab\Problem4\obj\Debug\Problem4.pdb

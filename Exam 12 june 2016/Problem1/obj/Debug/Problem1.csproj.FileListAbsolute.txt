@@ -1,0 +1,9 @@
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\bin\Debug\Problem1.exe.config
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\bin\Debug\Problem1.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\bin\Debug\Problem1.pdb
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\obj\Debug\Problem1.exe
+c:\users\lozanovi\documents\visual studio 2015\Projects\Exam 12 june 2016\Problem1\obj\Debug\Problem1.pdb
+C:\LOZANOVI DOCUMENTS\VLADO DOCUMENTS\SOFT UNI\Visual Studio 2015\Exam 12 june 2016\Problem1\bin\Debug\Problem1.exe.config
+C:\LOZANOVI DOCUMENTS\VLADO DOCUMENTS\SOFT UNI\Visual Studio 2015\Exam 12 june 2016\Problem1\obj\Debug\Problem1.exe
+C:\LOZANOVI DOCUMENTS\VLADO DOCUMENTS\SOFT UNI\Visual Studio 2015\Exam 12 june 2016\Problem1\obj\Debug\Problem1.pdb
